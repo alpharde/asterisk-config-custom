@@ -1,0 +1,11 @@
+asterisk-config-custom (1.0) unstable; urgency=medium
+
+  * Configuration for FreePBX
+
+ -- Glauber Ferreira <glauber@staysafe.com.br>  Sat, 26 Sep 2020 13:50:57 +0000
+
+asterisk-config-custom (0.4) unstable; urgency=low
+
+  * Initial release (Closes: #760032).
+
+ -- Geert Stappers <stappers@stappers.it>  Fri, 29 Aug 2014 16:25:44 +0200

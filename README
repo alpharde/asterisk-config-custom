@@ -1,0 +1,9 @@
+
+In this directory you can / should run
+
+  dpkg-buildpackage -uc -us
+
+to get your 'asterisk-config-custom' package build.
+
+If you don't have this package installed, install the package dpkg-dev .
+
